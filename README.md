@@ -1,6 +1,6 @@
 # Summer 24 Salesforce Certified AI Specialist Certification Notes
 
-[Go here to get an Einstein AI Playground Org0](https://trailhead.salesforce.com/content/learn/projects/quick-start-prompt-builder/get-started-with-prompt-builder?trail_id=drive-productivity-with-einstein-ai)
+[Go here to get an Einstein AI Playground Org](https://trailhead.salesforce.com/content/learn/projects/quick-start-prompt-builder/get-started-with-prompt-builder?trail_id=drive-productivity-with-einstein-ai)
 
 <details open>
     <summary>Einstein Trust Layer: 15%</summary>
