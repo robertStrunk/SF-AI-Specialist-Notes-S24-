@@ -74,3 +74,6 @@
         </li>
     </ul>
 </details>
+
+## References
+[AI Terms](https://help.salesforce.com/s/articleView?id=sf.generative_ai_glossary.htm&type=5)
