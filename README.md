@@ -1,6 +1,9 @@
 # Summer 24 Salesforce Certified AI Specialist Certification Notes
 
-[Go here to get an Einstein AI Playground Org](https://trailhead.salesforce.com/content/learn/projects/quick-start-prompt-builder/get-started-with-prompt-builder?trail_id=drive-productivity-with-einstein-ai)
+This repo is a distillation of concepts necessary to pass the Summer 24 version of the [Salesforce Certified AI Specialist](https://trailhead.salesforce.com/en/credentials/aispecialist) credential. It is not an exhaustive resource for learning Salesforce's generative ai functionality. For that, please review [the docs](https://help.salesforce.com/s/articleView?id=sf.generative_ai.htm&type=5). 
+
+The Salesforce gen AI features are not accessible in normal dev or playground orgs. If you want to get your hands on one then
+[go here to get an Einstein AI Playground Org](https://trailhead.salesforce.com/content/learn/projects/quick-start-prompt-builder/get-started-with-prompt-builder?trail_id=drive-productivity-with-einstein-ai)
 
 <details open>
     <summary>Einstein Trust Layer: 15%</summary>
