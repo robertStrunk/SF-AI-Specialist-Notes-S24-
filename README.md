@@ -82,4 +82,4 @@
 <br />
 [AI Trailhead](https://trailhead.salesforce.com/content/learn/trails/drive-productivity-with-einstein-ai)
 <br />
-[About Einstein Generative AI](https://help.salesforce.com/s/articleView?id=sf.generative_ai_about.htm&type=5)
+[Einstein Generative AI Docs](https://help.salesforce.com/s/articleView?id=sf.generative_ai.htm&type=5)
